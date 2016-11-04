@@ -1,0 +1,20 @@
+suno2 - h20, vs20, h21, vs21
+suno3 - h5, vs5, h6, vs6
+suno4 - h7, vs7, h8, vs8
+suno7 - h9, vs9
+suno8 - h37, vs37, h38, vs38
+suno9 - h13, vs13, h10, vs10
+suno11 - h14, vs14, h15, vs15
+suno12 - h16, vs16, h17, vs17
+suno13 - h18, vs18, h19, vs19
+suno15 - h23, vs23, h31, vs31
+suno19 - h3, vs3, h4, vs4
+suno20 - h26, vs26, h36, vs36
+suno22 - h27, vs27, h28, vs28
+suno23 - h22, vs22, h30, vs30
+suno24 - h32, vs32, h33, vs33
+suno26 - h11, vs11, h12, vs12
+suno27 - h39, vs39, h29, vs29
+suno29 - h1, vs1, h2, vs2
+suno31 - h24, vs24, h25, vs25
+suno32 - h34, vs34, h35, vs35
